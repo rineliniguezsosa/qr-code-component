@@ -10,8 +10,10 @@ html,body {
 main {
     width: 100%;
     height: 100%;
-    /* border: 1px red solid; */
     background-color: hsl(212, 45%, 89%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 img {
@@ -28,7 +30,6 @@ img {
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
-    /* align-content: flex-start; */
     border-radius: 20px;
     box-sizing: border-box;
     background-color: hsl(0, 0%, 100%);
@@ -46,7 +47,6 @@ strong {
 .qr-text-container {
     width:288px;
     height: 129px;
-    /* border:1px red solid; */
     padding: 5px;
     text-align: center;
     margin-top: 10px;
@@ -63,7 +63,6 @@ strong {
 .qr-subtitle {
     width: 256px;
     height: 57px;
-    /* border: 1px blue solid; */
     margin-top: 15px;
     text-align: center;
 }
@@ -75,12 +74,3 @@ span {
     font-weight:400px;
     font-style: normal;
 }
-/* // <uniquifier>: Use a unique and descriptive class name
-// <weight>: Use a value from 100 to 900 */
-
-/* .outfit-<uniquifier> {
-  font-family: "Outfit", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-} */
