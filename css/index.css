@@ -20,13 +20,67 @@ img {
     border-radius: 10px;
 }
 
-div {
+.qr-container {
     width: 320px;
     height: 497px;
     padding: 15px 10px;
     display:flex;
-    justify-content: center;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    /* align-content: flex-start; */
     border-radius: 20px;
     box-sizing: border-box;
     background-color: hsl(0, 0%, 100%);
 }
+
+strong {
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:700;
+    font-style: normal;
+    font-size: 22px;
+    color: hsl(218, 44%, 22%);
+}
+
+.qr-text-container {
+    width:288px;
+    height: 129px;
+    /* border:1px red solid; */
+    padding: 5px;
+    text-align: center;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.qr-title {
+    width: 288px;
+    height: 56px;
+}
+
+.qr-subtitle {
+    width: 256px;
+    height: 57px;
+    /* border: 1px blue solid; */
+    margin-top: 15px;
+    text-align: center;
+}
+
+span {
+    color: hsl(220, 15%, 55%);
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:400;
+    font-style: normal;
+}
+/* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900 */
+
+/* .outfit-<uniquifier> {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+} */
