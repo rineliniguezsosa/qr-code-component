@@ -53,8 +53,8 @@ full stack technologies
 
 ## requirements 
 
-- [Visual Studio Code](https://code.visualstudio.com/) (o cualquier otro editor de código de tu elección)
-- [Live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) para Visual Studio Code
+- [Visual Studio Code](https://code.visualstudio.com/) (or any other code editor of your choice)
+- [Live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) for Visual Studio Code
 
 ## Install
 
