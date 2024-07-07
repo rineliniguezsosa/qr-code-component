@@ -51,12 +51,12 @@ full stack technologies
 ## Author
 - Frontend Mentor - [@rineliniguezsosa](https://www.frontendmentor.io/profile/rineliniguezsosa)
 
-## Requistos 
+## requirements 
 
 - [Visual Studio Code](https://code.visualstudio.com/) (o cualquier otro editor de código de tu elección)
 - [Live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) para Visual Studio Code
 
-## Instalación
+## Install
 
 Follow these steps to download and run the project locally
 
