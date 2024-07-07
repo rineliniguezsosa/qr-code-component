@@ -35,7 +35,7 @@ img {
     background-color: hsl(0, 0%, 100%);
 }
 
-strong {
+h1 {
     font-family: "Outfit", sans-serif;
     font-optical-sizing: auto;
     font-weight:700px;
