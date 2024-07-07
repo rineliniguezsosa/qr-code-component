@@ -27,7 +27,7 @@ Mobile
 
 - Solution URL: [](https://www.frontendmentor.io/solutions/qr-code-challengue-with-css-flex-box-wqpMXoqUYk)
 - Live Site URL: [github pages](https://rineliniguezsosa.github.io/qr-code-component/)
-- my likedin profile: [](https://www.linkedin.com/in/rinel-i%C3%B1iguez-758a68203/)
+- my likedin profile: [linkedin profile](https://www.linkedin.com/in/rinel-i%C3%B1iguez-758a68203/)
 
 ## My process
 
