@@ -12,6 +12,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
+- [Requirements](#requirements)
+- [Install](#install)
+- [Deployment](#deployment)
 
 
 ## Overview
