@@ -68,7 +68,7 @@ Follow these steps to download and run the project locally
   Open your terminal and run the following command:
 
    ```bash
-   https://github.com/rineliniguezsosa/qr-code-component.git
+   git clone https://github.com/rineliniguezsosa/qr-code-component.git
    ```
 
 2.- **Navigate to the project directory:**
